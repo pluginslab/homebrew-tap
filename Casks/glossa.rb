@@ -1,6 +1,6 @@
 cask "glossa" do
-  version "0.2.0"
-  sha256 "84a9180d46adfdf01dae2f92473a432db639829a78b35eb6136f8a56e90587e9"
+  version "0.3.0"
+  sha256 "052e3e69c12016c29e4f38e7ad49424289f4a8dc115a16e45ce9078f84992c3d"
 
   url "https://github.com/pluginslab/glossa/releases/download/v#{version}/Glossa-#{version}.dmg"
   name "Glossa"
